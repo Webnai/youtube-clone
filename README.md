@@ -11,21 +11,10 @@ This project is a clone of the YouTube landing page, created with HTML and CSS.
 ## Authors
 
 - Wilbert Boadzo
-- Kwaku Gyamfi
 
 ## Description
 
 This project is a simple clone of the YouTube landing page, demonstrating the use of HTML and CSS to recreate a familiar web interface. It includes the header, search bar, recommended videos, and footer sections found on the YouTube landing page.
-
-## How to Run
-
-To view the YouTube landing page clone locally, follow these steps:
-
-1. Clone this repository to your local machine using 
-```
-git clone git@github.com:Finally-Kwaku/Simple_Calculator_Landing_Page.git
-```
-2. Open the `index.html` file in your preferred web browser.
 
 ## Challenges
 
